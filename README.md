@@ -1,6 +1,6 @@
 **Elementos que se trabajaron en este sitio web**
-Mixins:
 
+Mixins:
 Mixin para sombra
 Mixin para texto justificado con sombra de texto
 Mixin para estilos de botón
